@@ -8,4 +8,4 @@ This repo is used to learn the basic GitHub workflow: create a branch, make a ch
 
 ## Goal
 
-The goal of this repo is to help me understandd how contributing to a project works, step by step.
+The goal of this repo is to help me understand how contributing to a project works, step by step.
